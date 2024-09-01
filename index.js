@@ -71,6 +71,7 @@ else{
      }
      console.log("array of max number=" +" " + max)
      document.write("array of max number=" +" " + max)
+     document.write("<br>")
 }
 
 
@@ -143,7 +144,7 @@ for (let i = 0; i < 10; i++) {
  return password;    
 }
 console.log(generatePassword());
-document.write(generatePassword() + "<br>")
+document.write("password=" +" " + generatePassword() + "<br>")
 
 
 
