@@ -1,0 +1,55 @@
+.true{
+    margin: 50px;
+    height: 200px;
+    width: 500px;
+    background-color: aquamarine;
+    border: 2px solid;
+}
+
+
+.para{
+    height: 200px;
+    width: 600px;
+    background-color: aquamarine;
+    border: 2px solid;
+}
+
+.calculate{
+    height: 300px;
+    width: 500px;
+    background-color: rgb(240, 172, 212);
+    border: 2px solid;
+}
+
+.day{
+    height: 200px;
+    margin-top: 100px;
+    width: 500px;
+    background-color: rgb(135, 135, 185);
+    border: 2px solid;
+}
+
+.array{
+    height: 200px;
+    margin-top: 100px;
+    width: 500px;
+    background-color: rgb(135, 135, 185);
+    border: 2px solid;
+
+}
+
+.string{
+    margin: 50px;
+    height: 200px;
+    width: 500px;
+    background-color: aquamarine;
+    border: 2px solid;
+}
+
+.row{
+    margin: 50px;
+    height: 200px;
+    width: 500px;
+    background-color: rgb(236, 144, 37);
+    border: 2px solid;
+}
